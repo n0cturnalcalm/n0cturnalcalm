@@ -24,9 +24,7 @@
   <a href="https://twitter.com/n0cturnalcalm" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-000000.svg?style=for-the-badge&logo=x&logoColor=white"
          alt="n0cturnalcalm" height="30"/></a>
-  <a href="https://www.reddit.com/user/ralabastt0/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"
-         alt="n0cturnalcalm" height="30"/></a>
+  
 </div>
 <p>
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h3>
