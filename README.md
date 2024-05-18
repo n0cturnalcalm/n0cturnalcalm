@@ -9,10 +9,9 @@
 <p>You can reach me through my LinkedIn, emails, or my socials. I love to meet new people and make new friends, so just say hi. :relaxed:
 </p><br>
 <div align="center">
-<a href="www.linkedin.com/in/n0cturnalcalm" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/n0cturnalcalm" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="n0cturnalcalm" height="30"/></a>
-
   <a href="mailto:dev.baranb3n@outlook.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
          alt="n0cturnalcalm" height="30"/></a>
