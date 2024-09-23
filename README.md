@@ -45,5 +45,6 @@
 </p>
 <div align="center">
 
-  [![n0cturnalcalm's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0cturnalcalm&show_icons=true&count_private=true&title_color=FFFFFF&text_color=9F9F9F&icon_color=79FF97&bg_color=151515&hide_border=true)](https://github.com/n0cturnalcalm/github-readme-stats)
+  [![n0cturnalcalm's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=n0cturnalcalm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/n0cturnalcalm/github-readme-stats#gh-dark-mode-only)
+  [![n0cturnalcalm's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=n0cturnalcalm&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/n0cturnalcalm/github-readme-stats#gh-light-mode-only)
 </div>
